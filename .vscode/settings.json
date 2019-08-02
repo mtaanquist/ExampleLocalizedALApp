@@ -1,0 +1,5 @@
+{
+    "al.CompilationOptions": {"parallel": true},
+    "al.codeAnalyzers": ["${CodeCop}"],
+    "al.enableCodeAnalysis": true
+}

@@ -1,0 +1,29 @@
+{
+  "id": "6e604363-0dcf-4031-b7cd-7906821c4af3",
+  "name": "LocalizedApp",
+  "publisher": "Mads Taanquist",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "https://mtaanquist.dev",
+  "logo": "assets/images/logo.png",
+  "dependencies": [],
+  "screenshots": [],
+  "features": [
+    "TranslationFile"
+  ],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://github.com/mtaanquist",
+  "showMyCode": false,
+  "runtime": "3.2"
+}
